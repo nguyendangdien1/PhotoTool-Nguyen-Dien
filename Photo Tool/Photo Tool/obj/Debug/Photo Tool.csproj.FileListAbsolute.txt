@@ -1,0 +1,9 @@
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe.config
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.exe
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\bin\Debug\Photo Tool.pdb
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csprojResolveAssemblyReference.cache
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Form1.resources
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo_Tool.Properties.Resources.resources
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.csproj.GenerateResource.Cache
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.exe
+c:\users\bin\documents\visual studio 2015\Projects\Photo Tool\Photo Tool\obj\Debug\Photo Tool.pdb
